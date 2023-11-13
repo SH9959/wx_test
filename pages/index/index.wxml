@@ -1,0 +1,14 @@
+<view class="container">
+  <view class="header">
+    <text>陪玩团专属派单</text>
+  </view>
+  <view class="form">
+    <form bindsubmit="onSubmit">
+      <input placeholder="请输入玩家昵称" name="playerName" />
+      <input placeholder="请输入玩家游戏ID" name="gameId" />
+      <input placeholder="请输入派单金额（元）" name="orderAmount" />
+      <button form-type="submit">提交派单</button>
+      <!-- <button bindtap="onButtonClick">点击我</button> --> 
+    </form>
+  </view>
+</view>

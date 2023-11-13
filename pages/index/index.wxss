@@ -1,0 +1,15 @@
+/* 示例选择器，确保在实际使用时使用正确的选择器 */
+.container8yZxn3tslir {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+.header {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.form {
+  width: 100%;
+}
